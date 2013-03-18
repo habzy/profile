@@ -181,7 +181,7 @@
     noremap <C-v> :r! xclip -o <CR>
     map <C-j> <C-]>
     map <C-k> <C-t>
-    inoremap <C-d> <ESC>:r!date<CR>iKyan He <kyan.ql.he@gmail.com> @ <ESC>kJA<CR>
+    inoremap <C-d> <ESC>:r!date<CR>iHabzy Huang <habzyhs@gmail.com> @ <ESC>kJA<CR>
 
 
     " space / shift-space scroll in normal mode
