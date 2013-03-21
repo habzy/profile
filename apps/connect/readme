@@ -1,0 +1,4 @@
+## gcc connect.c -o connect 
+## vi ~/.ssh/config ##copy blow to the file
+st !*.intel.com, !10.*, *
+   ProxyCommand ~/mypath/connect -S socket-proxy:port %h %p
