@@ -1,4 +1,4 @@
-" Copyright 2010 Kyan <kyan.ql.he@gmail.com>
+" Copyright 2013 Habzy Huang<habzyhs@gmail.com>
 "
 " Modeline and Notes {
 "   vim: set foldmarker={,} foldlevel=0 spell:

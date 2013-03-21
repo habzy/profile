@@ -1,4 +1,6 @@
 ## gcc connect.c -o connect 
 ## vi ~/.ssh/config ##copy blow to the file
-st !*.intel.com, !10.*, *
+Host !*.myname.com, *.github.com
    ProxyCommand ~/mypath/connect -S socket-proxy:port %h %p
+##if want to get more, google "ssh ProxyCommand".
+##Copy it use "v+y"   if any useful thing use "shift+insert" to insert.
